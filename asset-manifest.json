@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/ExpenseTrackerByMuzammal-project1/static/css/main.882bf56f.css",
-    "main.js": "/ExpenseTrackerByMuzammal-project1/static/js/main.84bbd1ea.js",
+    "main.js": "/ExpenseTrackerByMuzammal-project1/static/js/main.eec6b315.js",
     "static/js/787.1937f22b.chunk.js": "/ExpenseTrackerByMuzammal-project1/static/js/787.1937f22b.chunk.js",
     "static/media/logo.svg": "/ExpenseTrackerByMuzammal-project1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/ExpenseTrackerByMuzammal-project1/index.html",
     "main.882bf56f.css.map": "/ExpenseTrackerByMuzammal-project1/static/css/main.882bf56f.css.map",
-    "main.84bbd1ea.js.map": "/ExpenseTrackerByMuzammal-project1/static/js/main.84bbd1ea.js.map",
+    "main.eec6b315.js.map": "/ExpenseTrackerByMuzammal-project1/static/js/main.eec6b315.js.map",
     "787.1937f22b.chunk.js.map": "/ExpenseTrackerByMuzammal-project1/static/js/787.1937f22b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.882bf56f.css",
-    "static/js/main.84bbd1ea.js"
+    "static/js/main.eec6b315.js"
   ]
 }
