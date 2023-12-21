@@ -1,0 +1,87 @@
+
+
+
+.main-Expense-Div{
+    max-width: 400px;
+   min-height: 450px;
+    background-color: whitesmoke;
+    margin: 80px auto;
+    box-shadow: 0 0 10px gray;
+    padding: 15px 50px;
+
+}
+
+.Expen-tracker-heading{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.current-balence-main-div{
+    text-align: center;
+}
+
+.main-div-expense-income-box{
+    width: 100%;
+    height: 80px;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+.income{
+    margin-top: 20px;
+    /* border-right: 1px solid gray;
+    width: 190px;
+    height: 60px; */
+}
+.expense{
+    margin-top: 20px;
+
+}
+.expense-income-under-div{
+    width: 1px;
+    height: 50px;
+    background-color: gray;
+    margin-top: 20px;
+}
+
+.transection-history{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    /* background-color: rgb(19, 220, 19); */
+    height: 35px;
+    box-shadow: 0 0 5px gray;
+    border-right: 7px solid rgb(16, 216, 59);
+
+}
+.transection-history:hover{
+    background-color:  rgb(16, 216, 59);
+}
+
+.prices{
+    margin-top: 6px;
+}
+.items{
+    margin-top: 6px;
+    
+}
+
+.add-new-wala-input{
+    width: 100%;
+    margin-top: 10px;
+    height: 30px;
+}
+.btn{
+    background-color: lightskyblue;
+    border: none;
+    box-shadow: 0 0 5px gray;
+}
+.delet-btn{
+    width: 25px;
+    background-color: red;
+    border: none;
+    position: relative;
+    right: 30px;
+    height: 25px;
+}
